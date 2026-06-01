@@ -1,2 +1,11 @@
-# haji-1218.github.io
-hajiのポートフォリオ
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>はじのポートフォリオ</title>
+  </head>
+  <body>
+    <h1>はじ</h1>
+  </body>
+</html>
